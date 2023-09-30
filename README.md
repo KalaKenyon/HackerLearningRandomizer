@@ -1,7 +1,7 @@
 <h1>Cyber Learning Ideas Generator</h1>
 
 <p>Cyber Learning Ideas Generator is a Python script that prompts users for their name and suggests personalized cybersecurity learning activities. From online courses to ethical hacking challenges, it provides diverse learning ideas to enhance cybersecurity skills.</p>
-<p> NOTE: This was created from the "ReceiptsforLovelyLoveseats" portion of CodeAcademy learning but was altered to be used by anyone with any information.</p>
+<p> NOTE: This was created from the "magic8ball" portion of CodeAcademy learning but was altered to be used by anyone looking to randomize what they learn next when on their cybersecurity journey.</p>
 <h2>How it Works</h2>
 <ol>
   <li><strong>User Interaction:</strong> Input your name when prompted.</li>
