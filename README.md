@@ -1,4 +1,3 @@
-# HackerLearningRandomizer
 <h1>Cyber Learning Ideas Generator</h1>
 
 <p>Cyber Learning Ideas Generator is a Python script that prompts users for their name and suggests personalized cybersecurity learning activities. From online courses to ethical hacking challenges, it provides diverse learning ideas to enhance cybersecurity skills.</p>
